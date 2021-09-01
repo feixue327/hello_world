@@ -1,0 +1,14 @@
+#include<stdiio.h>
+int main()
+{
+    int i,result; 
+    for(i=0;i<=100;i++)
+    {
+         result=i+result;
+     }
+     printf("1-100=%d\n",result);
+     return 0;
+}
+     
+         
+    
